@@ -1,5 +1,11 @@
 # FinalProject
-4: Create an interactive application that allows a user to visually coompare release speed and pitch movement between two pitchers.
+4: Create an interactive application that allows a user to visually compare release speed and pitch movement between two pitchers.
+Data obtained from Statcast: 2023 MLB Season (10-30-2023, 11-1-2023). 
+Plot Compares: Pitch Location - Pitch Type, Release Speed - Pitch Type, and Release Spin Rate - Spin Axis. 2x Scatterplots & 1x Boxplot. 
+    Final Project: 'S8_final_project.ipynb'
+    Final Project Plot: 'Final_Project_Plot'
+    Final Project Presentation link: https://youtu.be/x5tXCY-Al6g
+
 
 ## Module 4 - Assignment 4
 'assignment4.ipynb'
