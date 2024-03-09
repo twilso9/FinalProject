@@ -5,7 +5,7 @@ Data obtained from Statcast: 2023 MLB Season (10-30-2023, 11-1-2023). Plot Compa
 
 Final Project: 'S8_final_project.ipynb'
 
-Final Project Plot: 'Final_Project_Plot'
+Final Project Plot: 'Final_Project_Plot.pdf'
 
 Final Project Presentation link: https://youtu.be/x5tXCY-Al6g
 
